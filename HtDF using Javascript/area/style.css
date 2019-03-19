@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+.problem-container {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.problem-title {
+    margin: 1.2em 0 1.2em 1.2em;
+}
+
+.problem-description {
+    margin-left: 1.8em;
+}
